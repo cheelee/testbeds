@@ -1,0 +1,15 @@
+{ "activeExperimentId" : 1,
+  "experiments" : [ { "aspectConfigurations" : [  ],
+        "description" : "WCON Test",
+        "id" : 1,
+        "lastModified" : "1436102517799",
+        "name" : "WCON Test",
+        "status" : "DESIGN"
+      } ],
+  "geppettoModel" : { "id" : 1337,
+      "type" : "GEPPETTO_PROJECT",
+      "url" : "/wcon_initial.xmi"
+    },
+  "id" : 1337,
+  "name" : "WCON Test"
+}
