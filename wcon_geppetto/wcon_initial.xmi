@@ -13,8 +13,8 @@
       id="scene"
       name="WCON Scene">
     <types xsi:type="gep_1:ImportType"
-        id="wconRandom"
-        url="http://wcon_random"
+        id="wconExample"
+        url="https://raw.githubusercontent.com/openworm/tracker-commons/master/tests/examples/all_movements.wcon"
         modelInterpreterId="wconModelInterpreter"/>
   </libraries>
 </gep:GeppettoModel>
